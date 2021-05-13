@@ -1,0 +1,31 @@
+[12-May-2021 08:19:30 UTC] PHP Warning:  scandir(/home2/nsdemo/public_html/bhnsurgical/excel): failed to open dir: No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:19:30 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rows() on bool in /home2/nsdemo/public_html/bhnsurgical/sets.php:4559
+Stack trace:
+#0 /home2/nsdemo/public_html/bhnsurgical/suggested_sets.php(183): include()
+#1 {main}
+  thrown in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 4559
+[12-May-2021 08:20:56 UTC] PHP Warning:  scandir(/home2/nsdemo/public_html/bhnsurgical/excel): failed to open dir: No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:20:56 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rows() on bool in /home2/nsdemo/public_html/bhnsurgical/sets.php:4559
+Stack trace:
+#0 /home2/nsdemo/public_html/bhnsurgical/suggested_sets.php(183): include()
+#1 {main}
+  thrown in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 4559
+[12-May-2021 08:22:24 UTC] PHP Warning:  scandir(/home2/nsdemo/public_html/bhnsurgical/excel): failed to open dir: No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:22:24 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 5
+[12-May-2021 08:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rows() on bool in /home2/nsdemo/public_html/bhnsurgical/sets.php:4559
+Stack trace:
+#0 /home2/nsdemo/public_html/bhnsurgical/suggested_sets.php(183): include()
+#1 {main}
+  thrown in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 4559
+[12-May-2021 08:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'SimpleXLSX' not found in /home2/nsdemo/public_html/bhnsurgical/sets.php:4553
+Stack trace:
+#0 /home2/nsdemo/public_html/bhnsurgical/suggested_sets.php(183): include()
+#1 {main}
+  thrown in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 4553
+[12-May-2021 16:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rows() on bool in /home2/nsdemo/public_html/bhnsurgical/sets.php:7651
+Stack trace:
+#0 /home2/nsdemo/public_html/bhnsurgical/suggested_sets.php(183): include()
+#1 {main}
+  thrown in /home2/nsdemo/public_html/bhnsurgical/sets.php on line 7651
